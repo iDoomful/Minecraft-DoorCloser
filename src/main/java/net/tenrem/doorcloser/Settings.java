@@ -44,13 +44,13 @@ public class Settings
 	public static boolean ignoreIfSneaking = ignoreIfSneaking_Default;
 
 	final static String trapDoorsInScope_Key = "TrapDoorBlocks";
-	public static List<Material> trapDoorsInScope = new ArrayList<Material>();
+	public static List<Material> trapDoorsInScope = new ArrayList<>();
 
 	final static String gatesInScope_Key = "GateBlocks";
-	public static List<Material> gatesInScope = new ArrayList<Material>();
+	public static List<Material> gatesInScope = new ArrayList<>();
 
 	final static String doorsInScope_Key = "DoorBlocks";
-	public static List<Material> doorsInScope = new ArrayList<Material>();
+	public static List<Material> doorsInScope = new ArrayList<>();
 
 
 	public static DoorCloserPlugin ThisPlugin;

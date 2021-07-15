@@ -50,25 +50,29 @@ IgnoreIfSneaking: false
 # Case is not important, but use the official block names as found here:
 # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
 TrapDoorBlocks:
-- acacia_trapdoor
-- birch_trapdoor
-- dark_oak_trapdoor
-- jungle_trapdoor
-- oak_trapdoor
-- spruce_trapdoor
+  - trap_door
+  - acacia_trapdoor
+  - birch_trapdoor
+  - dark_oak_trapdoor
+  - jungle_trapdoor
+  - oak_trapdoor
+  - spruce_trapdoor
 
 GateBlocks:
-- oak_fence_gate
-- spruce_fence_gate
-- birch_fence_gate
-- jungle_fence_gate
-- dark_oak_fence_gate
-- acacia_fence_gate
+  - fence_gate
+  - oak_fence_gate
+  - spruce_fence_gate
+  - birch_fence_gate
+  - jungle_fence_gate
+  - dark_oak_fence_gate
+  - acacia_fence_gate
 
 DoorBlocks:
-- oak_door
-- spruce_door
-- birch_door
-- jungle_door
-- acacia_door
-- dark_oak_door
+  - wood_door
+  - wooden_door
+  - oak_door
+  - spruce_door
+  - birch_door
+  - jungle_door
+  - acacia_door
+  - dark_oak_door

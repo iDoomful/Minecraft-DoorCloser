@@ -1,6 +1,8 @@
+net\tenrem\doorcloser\SoundUtils.class
 net\tenrem\doorcloser\CommandReload.class
 net\tenrem\doorcloser\InteractListener$2.class
 net\tenrem\doorcloser\InteractListener$1.class
 net\tenrem\doorcloser\InteractListener.class
+net\tenrem\doorcloser\Utils.class
 net\tenrem\doorcloser\Settings.class
 net\tenrem\doorcloser\DoorCloserPlugin.class
